@@ -14,7 +14,7 @@ The finished product will be used by a fictional zoo, on their personal side (no
 
 The lesson plan allowed us to learn how to use Insomnia to test our GET and POST requests, and Heroku to publish our final page.
 
-The [Render](https://render.com/) link can be viewed here:
+The [Render](https://render.com/) link can be viewed here:\
 https://zookeepr-bmjs.onrender.com/
 
 If you'd like to run it on your own machine, please clone this repository, run "npm install" to get then "npm start" in your command line. Then you can go to: http://localhost:3001 to view the page.
