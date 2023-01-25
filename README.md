@@ -12,7 +12,7 @@ The finished product will be used by a fictional zoo, on their personal side (no
 
 ## Where to View
 
-The lesson plan allowed us to learn how to use Insomnia to test our GET and POST requests, and Heroku to publish our final page. https://render.com/
+The lesson plan allowed us to learn how to use Insomnia to test our GET and POST requests, and Heroku to publish our final page.
 
 The [Render](https://render.com/) link can be viewed here:
 https://zookeepr-bmjs.onrender.com/
